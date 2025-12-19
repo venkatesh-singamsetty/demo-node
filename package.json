@@ -1,0 +1,12 @@
+{
+  "name": "node-sample",
+  "version": "1.0.0",
+  "description": "Minimal Node.js sample app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test/test.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
