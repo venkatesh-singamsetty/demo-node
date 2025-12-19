@@ -1,6 +1,6 @@
-# node-sample
+# demo-node
 
-Minimal Node.js sample application demonstrating a tiny HTTP server
+Minimal Node.js demo application demonstrating a tiny HTTP server
 and a simple test script using Node's built-in `assert`.
 
 **Prerequisites**

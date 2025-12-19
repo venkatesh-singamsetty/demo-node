@@ -1,7 +1,7 @@
 {
-  "name": "node-sample",
+  "name": "demo-node",
   "version": "1.0.0",
-  "description": "Minimal Node.js sample app",
+  "description": "Minimal Node.js demo app",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
